@@ -6,4 +6,7 @@ def main(s):
     Returns:
         string
     """
-    return
+    s1 = s
+    n =len(s1)
+    return n*('*')
+print(main('code'))
